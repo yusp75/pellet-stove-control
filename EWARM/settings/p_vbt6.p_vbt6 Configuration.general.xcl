@@ -1,0 +1,17 @@
+"D:\Embedded Workbench\arm\bin\armproc.dll" 
+
+"D:\Embedded Workbench\arm\bin\armjlink.dll" 
+
+"E:\vbt6\p_vbt6\EWARM\p_vbt6 Configuration\Exe\p_vbt6 Configuration.out" 
+
+--plugin "D:\Embedded Workbench\arm\bin\armbat.dll" 
+
+--rtc_enable 
+
+--device_macro "D:\Embedded Workbench\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "D:\Embedded Workbench\arm\config\flashloader\ST\FlashSTM32F10xxB.board" 
+
+
+
+
